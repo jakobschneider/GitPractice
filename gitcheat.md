@@ -22,3 +22,12 @@ git commit
 git push
 
 
+**Review Past Commits**
+
+git log		shows log of commits and commit messages
+
+git checkout [first 5 numbers of comitt]		use this to view a previous commit (e.g. git checkout 0ee23)
+
+git checkout master  takes you to the master version (most recent commit)
+
+
