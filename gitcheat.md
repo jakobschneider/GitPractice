@@ -16,3 +16,9 @@ git push -u origin master  		push to github
 
 git clone		clone repo (e.g.: git clone [url of repo])
 
+**Git Order**
+git add
+git commit
+git push
+
+
